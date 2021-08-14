@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Making_Anagrams {
     // Complete the makingAnagrams function below.
     static int makingAnagrams(String s1, String s2)
     {

@@ -2,7 +2,7 @@
                        Created on : 02/08/2020                                                                                                */
 
 import java.util.*;
-public class ApandDel
+public class Append_and_delete
 {
     public static String append(int k, int l1 ,int l2)
     {
