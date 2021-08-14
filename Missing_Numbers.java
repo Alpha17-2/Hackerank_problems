@@ -29,7 +29,6 @@ class Solution {
                 else
                         System.out.print(val+" ");
             }
-            System.out.println();
         }
     }
 }
